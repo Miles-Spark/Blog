@@ -2,7 +2,7 @@
 title: UnityShader学习笔记--复杂光照
 date: 2025-08-17 15:01:23
 tags: Shader
-categority: 计算机图形学
+categories: 计算机图形学
 ---
 
 

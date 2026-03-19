@@ -3,13 +3,13 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
-description: ''
+title: Miles's Blog
+subtitle: 生死看淡不符就干
+description: 人生不止是旷野
 keywords:
-author: 'miles'
-language: 'en'
-timezone: 'UTC'
+author: miles
+language: zh-CN
+timezone: UTC
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
@@ -100,7 +100,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: keep
+theme: next
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
