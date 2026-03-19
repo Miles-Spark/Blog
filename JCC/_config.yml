@@ -7,9 +7,9 @@ title: Hexo
 subtitle: ''
 description: ''
 keywords:
-author: John Doe
-language: en
-timezone: ''
+author: 'miles'
+language: 'en'
+timezone: 'UTC'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
@@ -106,7 +106,8 @@ theme: keep
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: git@github.com:Miles-Spark/Miles-Spark.github.io.git
+  ## SSH 连接仓库地址repo: git@github.com:Miles-Spark/Miles-Spark.github.io.git
+  repo: https://github.com/Miles-Spark/Miles-Spark.github.io.git ## Http的方式连接仓库
   branch: main
 
  
